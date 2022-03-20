@@ -1,0 +1,250 @@
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\202(2)\all_lab\VB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\exe_cursova\cursova_programa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\курсова\exe_cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\курсова\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\cursova\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\cursova\Polynom\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\cursova\Polynom\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\cursova\Polynom\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\cursova\Polynom\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\cursova\Polynom\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\cursova\Polynom\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\cursova\Polynom\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\cursova\Polynom\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\cursova\Polynom\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\cursova\Polynom\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cursova\Polynom\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\cursova\Polynom\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\cursova\Polynom\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\cursova\Polynom\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\Cursova_2\Polynom\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\Cursova_2\Polynom\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\Cursova_2\Polynom\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\Cursova_2\Polynom\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\Cursova_2\Polynom\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\Cursova_2\Polynom\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Cursova_2\Polynom\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\Cursova_2\Polynom\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\Cursova_2\Polynom\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Cursova_2\Polynom\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Cursova_2\Polynom\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\Cursova_2\Polynom\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\Cursova_2\Polynom\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\Cursova_2\Polynom\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.HelpForm.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.HelpForm.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2 — копия\Polynom_2\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.HelpForm.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.application
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp.MainForm.resources
+C:\Users\admin\Desktop\CursovaWithDataGrid\Polynom_2\Polynom_2\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp.HelpForm.resources
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.application
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp.MainForm.resources
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp.HelpForm.resources
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.application
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.application
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp.MainForm.resources
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp.HelpForm.resources
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.application
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\4_course\курсова\Polynom_2\Polynom_2\obj\Debug\WindowsFormsApp1.pdb
